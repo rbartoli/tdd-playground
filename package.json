@@ -1,0 +1,19 @@
+{
+  "name": "tdd-playground",
+  "version": "1.0.0",
+  "description": "A playground to have some fun with TDD",
+  "scripts": {
+    "test": "karma start karma.conf.js"
+  },
+  "keywords": [],
+  "author": "Riccardo Bartoli <info@rblab.com> (http://rblab.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^2.4.1",
+    "karma": "^0.13.22",
+    "karma-jasmine": "^1.0.2",
+    "karma-notification-reporter": "^0.1.1",
+    "karma-phantomjs-launcher": "^1.0.0",
+    "phantomjs-prebuilt": "^2.1.7"
+  }
+}
